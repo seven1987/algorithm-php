@@ -1,0 +1,13 @@
+{
+  "name": "evan/algorithm-php",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "evan",
+      "email": "evan.zhang@wetax.com.cn"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"algorithm\\": "src/"}
+  }
+}
